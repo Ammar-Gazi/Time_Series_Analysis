@@ -1,0 +1,4 @@
+.env
+*.db
+data.json
+.ipynb_checkpoints/
